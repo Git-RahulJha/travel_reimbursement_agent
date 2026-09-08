@@ -1,0 +1,26 @@
+[
+  {
+    "employee_id": "E-3105",
+    "receipt_id": "R-3001",
+    "merchant": "Fortune Park Pune",
+    "date": "2026-07-07",
+    "amount": "7200",
+    "settled_claim_id": "CLM-0912"
+  },
+  {
+    "employee_id": "E-3105",
+    "receipt_id": "R-3002",
+    "merchant": "Pune City Cabs",
+    "date": "2026-07-06",
+    "amount": "800",
+    "settled_claim_id": "CLM-0912"
+  },
+  {
+    "employee_id": "E-4417",
+    "receipt_id": "R-0771",
+    "merchant": "Taj Palace Delhi",
+    "date": "2026-05-11",
+    "amount": "8000",
+    "settled_claim_id": "CLM-0688"
+  }
+]
