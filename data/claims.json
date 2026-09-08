@@ -1,0 +1,125 @@
+[
+  {
+    "claim_id": "CLM-001",
+    "employee_id": "E-4417",
+    "employee_name": "Kabir Shah",
+    "trip_id": "TRP-9001",
+    "trip_from": "2026-08-10",
+    "trip_to": "2026-08-12",
+    "submitted_on": "2026-08-16",
+    "lines": [
+      {"line_id": "L-1", "category": "FLIGHT", "description": "Return flight Delhi to Bengaluru, economy",
+       "amount": "9800", "date_from": "2026-08-10", "date_to": "2026-08-12", "sectors": 2,
+       "receipt_id": "R-1001", "fare_class": "ECONOMY"},
+      {"line_id": "L-2", "category": "HOTEL", "description": "Hotel accommodation, standard room, 2 nights",
+       "amount": "11600", "date_from": "2026-08-10", "date_to": "2026-08-12", "nights": 2,
+       "receipt_id": "R-1002", "room_type": "STANDARD"},
+      {"line_id": "L-3", "category": "MEALS", "description": "Meals during travel",
+       "amount": "1900", "date_from": "2026-08-10", "date_to": "2026-08-12", "travel_days": 3,
+       "receipt_id": "R-1003"},
+      {"line_id": "L-4", "category": "TAXI", "description": "Airport to hotel and hotel to client office",
+       "amount": "700", "date_from": "2026-08-10", "date_to": "2026-08-12", "travel_days": 3,
+       "receipt_id": "R-1004", "purpose": "AIRPORT_HOTEL"}
+    ]
+  },
+  {
+    "claim_id": "CLM-002",
+    "employee_id": "E-5290",
+    "employee_name": "Anita Rao",
+    "trip_id": "TRP-9014",
+    "trip_from": "2026-08-18",
+    "trip_to": "2026-08-20",
+    "submitted_on": "2026-08-24",
+    "lines": [
+      {"line_id": "L-1", "category": "FLIGHT", "description": "Flight Mumbai to Hyderabad, economy",
+       "amount": "6400", "date_from": "2026-08-18", "date_to": "2026-08-18", "sectors": 1,
+       "receipt_id": "R-2001", "fare_class": "ECONOMY"},
+      {"line_id": "L-2", "category": "HOTEL", "description": "Hotel accommodation, 1 night",
+       "amount": "9500", "date_from": "2026-08-18", "date_to": "2026-08-19", "nights": 1,
+       "receipt_id": "R-2002", "room_type": "STANDARD"},
+      {"line_id": "L-3", "category": "MEALS", "description": "Meals during travel",
+       "amount": "4300", "date_from": "2026-08-18", "date_to": "2026-08-20", "travel_days": 3,
+       "receipt_id": "R-2003"},
+      {"line_id": "L-4", "category": "TAXI", "description": "Local taxi, hotel to office",
+       "amount": "640", "date_from": "2026-08-19", "date_to": "2026-08-19", "travel_days": 1,
+       "receipt_id": null, "purpose": "HOTEL_OFFICE"}
+    ]
+  },
+  {
+    "claim_id": "CLM-003",
+    "employee_id": "E-3105",
+    "employee_name": "Vikram Nair",
+    "trip_id": "TRP-8842",
+    "trip_from": "2026-07-06",
+    "trip_to": "2026-07-07",
+    "submitted_on": "2026-08-21",
+    "lines": [
+      {"line_id": "L-1", "category": "HOTEL", "description": "Hotel accommodation, 1 night",
+       "amount": "7200", "date_from": "2026-07-06", "date_to": "2026-07-07", "nights": 1,
+       "receipt_id": "R-3001", "room_type": "STANDARD"},
+      {"line_id": "L-2", "category": "TAXI", "description": "Station to hotel transfer",
+       "amount": "800", "date_from": "2026-07-06", "date_to": "2026-07-06", "travel_days": 1,
+       "receipt_id": "R-3002", "purpose": "STATION_HOTEL"}
+    ]
+  },
+  {
+    "claim_id": "CLM-004",
+    "employee_id": "E-2233",
+    "employee_name": "Priya Menon",
+    "trip_id": "TRP-9077",
+    "trip_from": "2026-08-24",
+    "trip_to": "2026-08-27",
+    "submitted_on": "2026-08-29",
+    "lines": [
+      {"line_id": "L-1", "category": "FLIGHT", "description": "Return flight Chennai to Delhi, economy",
+       "amount": "14500", "date_from": "2026-08-24", "date_to": "2026-08-27", "sectors": 2,
+       "receipt_id": "R-4001", "fare_class": "ECONOMY"},
+      {"line_id": "L-2", "category": "HOTEL", "description": "Hotel accommodation, standard room, 3 nights",
+       "amount": "22000", "date_from": "2026-08-24", "date_to": "2026-08-27", "nights": 3,
+       "receipt_id": "R-4002", "room_type": "STANDARD"},
+      {"line_id": "L-3", "category": "MEALS", "description": "Meals during travel",
+       "amount": "5200", "date_from": "2026-08-24", "date_to": "2026-08-27", "travel_days": 4,
+       "receipt_id": "R-4003"},
+      {"line_id": "L-4", "category": "TAXI", "description": "Airport transfers and travel to client site",
+       "amount": "3400", "date_from": "2026-08-24", "date_to": "2026-08-27", "travel_days": 4,
+       "receipt_id": "R-4004", "purpose": "AIRPORT_HOTEL"}
+    ]
+  },
+  {
+    "claim_id": "CLM-005",
+    "employee_id": "E-6612",
+    "employee_name": "Rohan Desai",
+    "trip_id": "TRP-9103",
+    "trip_from": "2026-09-01",
+    "trip_to": "2026-09-02",
+    "submitted_on": "2026-09-04",
+    "lines": [
+      {"line_id": "L-1", "category": "FLIGHT", "description": "Flight Pune to Bengaluru, economy",
+       "amount": "5900", "date_from": "2026-09-01", "date_to": "2026-09-01", "sectors": 1,
+       "receipt_id": "R-5001", "fare_class": "ECONOMY"},
+      {"line_id": "L-2", "category": "INCIDENTAL", "description": "Conference registration fee, DevSummit India 2026",
+       "amount": "12000", "date_from": "2026-09-01", "date_to": "2026-09-02", "travel_days": 2,
+       "receipt_id": "R-5002"}
+    ]
+  },
+  {
+    "claim_id": "CLM-006",
+    "employee_id": "E-7781",
+    "employee_name": "Meera Iyer",
+    "trip_id": "TRP-9120",
+    "trip_from": "2026-09-03",
+    "trip_to": "2026-09-04",
+    "submitted_on": "2026-09-06",
+    "lines": [
+      {"line_id": "L-1", "category": "HOTEL", "description": "Hotel accommodation, 1 night",
+       "amount": "7800", "date_from": "2026-09-03", "date_to": "2026-09-04", "nights": 1,
+       "receipt_id": "R-6001", "room_type": "STANDARD"},
+      {"line_id": "L-2", "category": "MEALS", "description": "Meals during travel",
+       "amount": "1400", "date_from": "2026-09-03", "date_to": "2026-09-04", "travel_days": 2,
+       "receipt_id": "R-6002"},
+      {"line_id": "L-3", "category": "TAXI", "description": "Airport to hotel",
+       "amount": "450", "date_from": "2026-09-03", "date_to": "2026-09-03", "travel_days": 1,
+       "receipt_id": null, "purpose": "AIRPORT_HOTEL"}
+    ]
+  }
+]
