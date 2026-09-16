@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Loads the sample claims, receipt documents and settled-claim ledger.
 
 In production these are HRIS, object storage and the claims ledger, each behind
@@ -6,7 +5,7 @@ the same interface. Here they are local JSON, which is why the demo runs with no
 network at all.
 """
 
-from __future__ import annotations
+#from __future__ import annotations
 
 import json
 import os

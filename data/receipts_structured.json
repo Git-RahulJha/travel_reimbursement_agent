@@ -1,0 +1,35 @@
+[
+  {
+    "receipt_id": "R-2001",
+    "merchant": "IndiGo",
+    "receipt_date": "2026-08-18",
+    "amount": 6400,
+    "currency": "INR",
+    "category": "FLIGHT",
+    "details": {
+      "fare_class": "ECONOMY",
+      "from": "Mumbai",
+      "to": "Hyderabad"
+    }
+  },
+  {
+    "receipt_id": "R-2002",
+    "merchant": "ABC Hotel",
+    "receipt_date": "2026-08-18",
+    "amount": 9500,
+    "currency": "INR",
+    "category": "HOTEL",
+    "details": {
+      "room_type": "STANDARD",
+      "nights": 1
+    }
+  },
+  {
+    "receipt_id": "R-2003",
+    "merchant": "Food Restaurant",
+    "receipt_date": "2026-08-19",
+    "amount": 4300,
+    "currency": "INR",
+    "category": "MEALS"
+  }
+]
